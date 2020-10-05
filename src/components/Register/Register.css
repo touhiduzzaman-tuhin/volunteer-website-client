@@ -1,0 +1,35 @@
+body{
+    background-color: #f8fafc;
+}
+.form-style{
+    margin : 0 auto;
+}
+.registration-form{
+    /* margin: 30px 100px; */
+    margin-top: 30px;
+}
+.registration-form input{
+    display: block;
+    margin-top: 30px;
+    padding : 5px;
+    border : none;
+    border-bottom: 1px solid gray;
+    border-radius : 5px;
+    width: 300px;
+}
+.main-form-style{
+    margin: 10px auto;
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+}
+.register-button{
+    width: 300px;
+    height: 30px; 
+    border: none; 
+    border-radius: 5px;
+    background-color: #3F90FC;
+    cursor: pointer;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,30 @@
+.register-event{
+    margin-left: 100px;
+}
+.form-event-register{
+    background-color: #f8fafc;
+}
+.form-event-register{
+    margin: 30px 100px;
+}
+.register-event h3{
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-event-register input{
+    /* display: block; */
+    margin: 30px 10px;
+    padding : 5px;
+    border: 1px solid gray;
+    border-radius : 5px;
+    width: 250px;
+    /* border: none; */
+}
+.register-event-left{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.register-event-left img{
+    margin-bottom: 50px;
+}

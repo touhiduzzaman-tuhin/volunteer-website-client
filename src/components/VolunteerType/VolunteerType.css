@@ -1,0 +1,17 @@
+.volunteer-type-image{
+    height: 250px;
+    margin-bottom: 10px;
+}
+.volunteer-type{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.button-volunteer{
+    border: none;
+    border-radius: 15px;
+}
+.button-volunteer h5{
+    color: black; 
+}
